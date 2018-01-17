@@ -1,0 +1,6 @@
+Este script python lê o dia, o mês e o ano de nascimento de uma pessoa e mostra uma mensagem com a data formatada.
+
+dia = input('Que dia você nasceu?')
+mês = input('Em que mês você nasceu?')
+ano = input('Em que ano você nasceu?')
+print('Você nasceu no dia',dia,'de',mês, 'de', ano,'.','Correto?')
